@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aryanp45-temp/aryanp45-temp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryanitinpatil@gmail.com)
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="50px" src="https://cdn.svgporn.com/logos/java.svg" /> &nbsp;
+<img  height="45px" src="https://cdn.svgporn.com/logos/spring-icon.svg" /> &nbsp;
+<img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/postman-icon.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/aws.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/tomcat.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/docker-icon.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/eclipse-icon.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/bash-icon.svg" /> &nbsp;
+<img height="50px"  src="https://cdn.svgporn.com/logos/linux-tux.svg" /> &nbsp;
+
+
+<!--- <img  src="./github-user-contribution.svg" /> --->
+</div>  
+
